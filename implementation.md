@@ -149,7 +149,7 @@ Abstract dark background with subtle gold geometric pattern, very low opacity, s
 ## 💻 Technical Specifications
 
 ### Stack
-- **Framework:** Pure HTML + CSS + Vanilla JS (no build tool needed — open in browser directly)
+- **Framework:** react+tailwind css
 - **Fonts:** Google Fonts CDN
 - **Icons:** Lucide Icons CDN or Font Awesome Free
 - **Animations:** CSS `@keyframes` + `IntersectionObserver` for scroll reveals
